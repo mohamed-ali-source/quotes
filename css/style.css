@@ -31,7 +31,7 @@ div {
     
 }
 section{
-    height: calc(100vh - 6rem);
+    height: auto;
     margin: 3rem;
     background-color: rgb(250, 243, 235);
 }
